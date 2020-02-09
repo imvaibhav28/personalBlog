@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stackbithq/stackbit-theme-fjord"
+    "url": "git+http://imvaibhav28.github.io/personalBlog"
   },
   "author": "Stackbit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stackbithq/stackbit-theme-fjord/issues"
+    "url": "http://imvaibhav28.github.io/personalBlog"
   },
-  "homepage": "https://docs.stackbit.com/unibit/",
+  "homepage": "http://imvaibhav28.github.io/personalBlog/",
   "dependencies": {
     "@stackbit/unibit": "~0.1.11",
     "lodash": "^4.17.14",
