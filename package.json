@@ -21,7 +21,7 @@
   "homepage": "http://imvaibhav28.github.io/personalBlog/",
   "dependencies": {
     "@stackbit/unibit": "~0.1.11",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.21",
     "nodemon": "^1.19.1"
   }
 }
